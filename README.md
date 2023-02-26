@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRjMDNkMWYwYTJjMGJkNmY4Y2ExY2QxZWNhZGYyNjhkZWJiZjVmOSZjdD1n/CVtNe84hhYF9u/giphy.gif" width="300"/>
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://www.linkedin.com/in/basalegend/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="vk.com/basalegend">
