@@ -54,7 +54,7 @@ My name is Ivan Basalaev and I am a second-year student of the Financial Univers
 <div>
    <img src="https://camo.githubusercontent.com/61c89cf0d8b3a8d729bd3cfee10a9cd7cd0f240c4f274ecfa91b4d5ea3831002/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30352f5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e7376672f3130323470782d5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e7376672e706e67" title="Sklearn" alt="Sklearn" width="150" height="90"/>
   <img src="https://mljar.com/images/machine-learning/catboost.png" title="Catboost" alt="Catboost" width="120" height="90"/>
-  <img src="https://rapids.ai/assets/images/xgboost_logo.png" title="Xgboost" alt="Xgboost" width="90" height="90"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" title="Xgboost" alt="Xgboost" width="90" height="90"/>
   <img src="https://repository-images.githubusercontent.com/64991887/dc855780-e34b-11ea-9ab8-e08ca33288b0" title="lightgbm" alt="lightgbm" width="90" height="90"/>
   <img src="https://www.fullstackpython.com/img/logos/scipy.png" title="Scipy" alt="Scipy" width="90" height="90"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" alt="pytorch" width="90" height="90"/>
