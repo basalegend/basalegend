@@ -64,8 +64,7 @@ My name is Ivan Basalaev and I am a second-year student of the Financial Univers
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Apache_POI_project_logo_%282018%29.svg/2560px-Apache_POI_project_logo_%282018%29.svg.png" title="apache-poi" alt="apache-poi" width="150" height="90"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hibernate_logo_a.png/1200px-Hibernate_logo_a.png" title="hibernate" alt="hibernate" width="140" height="90"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Jakarta_ee_logo_schooner_color_stacked_default.svg/800px-Jakarta_ee_logo_schooner_color_stacked_default.svg.png" title="jakarta" alt="jakarta" width="90" height="90"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hibernate_logo_a.png/1200px-Hibernate_logo_a.png" title="hibernate" alt="hibernate" width="140" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="spring" alt="spring" width="90" height="90"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="90" height="90"/>
 </div>
