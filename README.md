@@ -25,7 +25,7 @@
 
 ### 👨‍💻 About Me :
 
-My name is Ivan Basalaev and I am a second-year student of the Financial University under the Government of the Russian Federation in the program "Applied Informatics". I'm from Russia, currently living and studying in Moscow.
+My name is Ivan Basalaev and I am a third-year student of the M.V.Lomonosov Moscow State University in the program "Applied MAthematics and Informatics". I'm from Russia, currently living and studying in Moscow.
 
 
 ---
